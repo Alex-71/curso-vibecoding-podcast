@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Claude Updated</title>
+    <link>https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/</link>
+    <description>Cápsulas personales en español, de 4 a 5 minutos y con dos voces, Marta y Tomás, sobre las novedades semanales de Claude Code.</description>
+    <language>es</language>
+    <itunes:author>Claude Updated</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Sat, 03 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>01 · Claude Updated: comando design, estilo Concise y auto-continue</title>
+      <description>Edición del 21 de agosto de 2026: comando design, estilo Concise y auto-continue.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap01.m4a" length="5707988" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap01</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · Claude Updated: resume en escritorio y sesiones desde el teléfono</title>
+      <description>Edición del 29 de agosto de 2026: resume en escritorio y sesiones desde el teléfono.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap02.m4a" length="5189453" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap02</guid>
+      <pubDate>Sat, 29 Aug 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:09</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · Claude Updated: Fable 5.1 y el panel diff en vivo</title>
+      <description>Edición del 12 de septiembre de 2026: Fable 5.1 y el panel diff en vivo.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap03.m4a" length="5992203" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap03</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:49</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · Claude Updated: Projects, Design, Slides y Docs en Claude Code</title>
+      <description>Edición del 18 de septiembre de 2026: Projects, Design, Slides y Docs en Claude Code.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap04.m4a" length="5713144" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap04</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · Claude Updated: mods, margen de cierre y Opus 5.5</title>
+      <description>Edición del 3 de octubre de 2026: mods, margen de cierre y Opus 5.5.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap05.m4a" length="5702795" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap05</guid>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
