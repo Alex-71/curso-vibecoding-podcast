@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Curso Vibecoding con Claude</title>
+    <link>https://alex-71.github.io/curso-vibecoding-podcast/</link>
+    <description>Curso personal en español sobre vibecoding con Claude: qué es, cómo rendir el plan Max, Claude Code, contexto y memoria, flujo de trabajo, prompting, extensiones, calidad y seguridad. Dos voces, Marta y Tomás, 13 episodios.</description>
+    <language>es</language>
+    <itunes:author>Vibecoding con Claude</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Thu, 01 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>00 · Cómo usar este curso</title>
+      <description>00 · Cómo usar este curso</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep00.m4a" length="6414608" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep00</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01 · Qué es el vibecoding (y qué no)</title>
+      <description>Al terminar podrás ubicar cualquier proyecto en el «espectro de autonomía» y decidir cuánto control humano necesita.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep01.m4a" length="12719173" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep01</guid>
+      <pubDate>Thu, 01 Oct 2026 01:00:00 +0000</pubDate>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · Tu suscripción Max: cómo rendirla</title>
+      <description>Al terminar sabrás cómo se miden tus límites, cómo vigilarlos y qué modelo y nivel de esfuerzo elegir para no agotarlos antes de tiempo.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep02.m4a" length="12922023" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep02</guid>
+      <pubDate>Thu, 01 Oct 2026 02:00:00 +0000</pubDate>
+      <itunes:duration>00:10:30</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · El mapa del ecosistema Claude</title>
+      <description>Al terminar sabrás qué superficie de Claude usar según la etapa de tu idea, desde el boceto hasta el repositorio en producción.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep03.m4a" length="12944448" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep03</guid>
+      <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>00:10:31</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · Claude Code, primeros pasos</title>
+      <description>Al terminar tendrás Claude Code instalado con tu cuenta Max, habrás hecho tu primera tarea y entenderás los modos de permisos.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep04.m4a" length="13229954" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep04</guid>
+      <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
+      <itunes:duration>00:10:45</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · Comandos esenciales</title>
+      <description>Al terminar dominarás los 20 comandos y atajos que cubren casi todo tu trabajo diario, agrupados por momento del flujo.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep05.m4a" length="14015904" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep05</guid>
+      <pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
+      <itunes:duration>00:11:24</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06 · Contexto y memoria</title>
+      <description>Al terminar sabrás escribir un buen CLAUDE.md, distinguir memoria de contexto y mantener tus sesiones limpias y baratas.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep06.m4a" length="14553435" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep06</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>00:11:51</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07 · El flujo de trabajo: explorar, planificar, codificar, verificar</title>
+      <description>Al terminar aplicarás un ciclo de cuatro pasos que reduce reescrituras, y sabrás usar plan mode, el razonamiento profundo y la verificación.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep07.m4a" length="13688207" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep07</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:11:08</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08 · Prompting para código</title>
+      <description>Al terminar escribirás pedidos que Claude entiende a la primera, con una plantilla de cinco partes y técnicas para destrabar conversaciones.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep08.m4a" length="13592127" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep08</guid>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09 · Extender a Claude: MCP, skills, subagentes y hooks</title>
+      <description>Al terminar sabrás cuál de las cuatro extensiones usar para cada necesidad y habrás creado tu primera skill.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep09.m4a" length="15095190" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep09</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:12:17</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10 · Calidad y seguridad</title>
+      <description>Al terminar tendrás una lista de controles para que el código hecho con Claude sea revisable, seguro y defendible ante una auditoría.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep10.m4a" length="13760946" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep10</guid>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:11:11</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>11 · Escalar: paralelismo y automatización</title>
+      <description>Al terminar sabrás correr varias tareas a la vez sin que choquen, usar Claude Code desde scripts y conectarlo a tu flujo de GitHub, cuidando tu cupo.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep11.m4a" length="13771731" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep11</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>12 · Proyecto final integrador</title>
+      <description>Construir de principio a fin una herramienta real aplicando todo el curso, y evaluarte con una rúbrica.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/ep12.m4a" length="13657592" type="audio/x-m4a" />
+      <guid isPermaLink="false">curso-vibecoding-ep12</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
