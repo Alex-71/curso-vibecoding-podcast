@@ -10,7 +10,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Sat, 03 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:00:00 +0000</lastBuildDate>
     <item>
       <title>01 · Claude Updated: comando design, estilo Concise y auto-continue</title>
       <description>Edición del 21 de agosto de 2026: comando design, estilo Concise y auto-continue.</description>
@@ -63,6 +63,17 @@
       <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06 · Claude Updated: sesiones anidadas y app de escritorio renovada</title>
+      <description>Edición del 17 de octubre de 2026: sesiones anidadas y app de escritorio renovada.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/claude-updated/cap06.m4a" length="5785926" type="audio/x-m4a" />
+      <guid isPermaLink="false">claude-updated-cap06</guid>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>00:04:39</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
