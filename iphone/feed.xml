@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>iPhone 18 Pro en Torres del Paine</title>
+    <link>https://alex-71.github.io/curso-vibecoding-podcast/iphone/</link>
+    <description>Cinco capítulos dinámicos en español, con dos voces, Marta y Tomás, para sacar el máximo a la cámara del iPhone 18 Pro en una excursión de un día en el Parque Nacional Torres del Paine.</description>
+    <language>es</language>
+    <itunes:author>iPhone 18 Pro en Torres del Paine</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/iphone/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Wed, 21 Oct 2026 12:05:00 +0000</lastBuildDate>
+    <item>
+      <title>01 · iPhone 18 Pro: tu arsenal de lentes</title>
+      <description>Qué lente usar para qué: ultra gran angular, principal, cuatro equis y ocho equis, y por qué más megapíxeles no siempre es mejor.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/iphone/cap01.m4a" length="7360089" type="audio/x-m4a" />
+      <guid isPermaLink="false">iphone-18-pro-torres-del-paine-cap01</guid>
+      <pubDate>Wed, 21 Oct 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · iPhone 18 Pro: apertura variable y controles Pro</title>
+      <description>Qué hacen las cuatro aperturas, cuándo conviene cambiarlas, los Pro controls, el histograma y el botón Camera Control.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/iphone/cap02.m4a" length="7458270" type="audio/x-m4a" />
+      <guid isPermaLink="false">iphone-18-pro-torres-del-paine-cap02</guid>
+      <pubDate>Wed, 21 Oct 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · iPhone 18 Pro: paisajes, luz y viento</title>
+      <description>Lente, exposición y momento del día para fotografiar las Torres: histograma, compensación, formato y cómo evitar el temblor.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/iphone/cap03.m4a" length="7306664" type="audio/x-m4a" />
+      <guid isPermaLink="false">iphone-18-pro-torres-del-paine-cap03</guid>
+      <pubDate>Wed, 21 Oct 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · iPhone 18 Pro: fauna a distancia</title>
+      <description>Normas de CONAF, zoom a cuatro y ocho aumentos, seguimiento de enfoque y un protocolo para fotografiar animales sin molestarlos.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/iphone/cap04.m4a" length="7260578" type="audio/x-m4a" />
+      <guid isPermaLink="false">iphone-18-pro-torres-del-paine-cap04</guid>
+      <pubDate>Wed, 21 Oct 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:05:52</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · iPhone 18 Pro: video, batería, frío y lluvia</title>
+      <description>Ajustes de video para caminar, modo Acción, y cómo cuidar la batería del teléfono con frío, viento y lluvia.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/iphone/cap05.m4a" length="7404435" type="audio/x-m4a" />
+      <guid isPermaLink="false">iphone-18-pro-torres-del-paine-cap05</guid>
+      <pubDate>Wed, 21 Oct 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
