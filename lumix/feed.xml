@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Lumix en Torres del Paine</title>
+    <link>https://alex-71.github.io/curso-vibecoding-podcast/lumix/</link>
+    <description>Diez lecciones personales en español, con dos voces, Marta y Tomás, para aprender a usar la Panasonic Lumix DC-FZ80 en una visita al Parque Nacional Torres del Paine.</description>
+    <language>es</language>
+    <itunes:author>Lumix en Torres del Paine</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/lumix/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Tue, 20 Oct 2026 12:10:00 +0000</lastBuildDate>
+    <item>
+      <title>01 · Lumix: tu cámara por fuera y por dentro</title>
+      <description>Conoce los controles de la Lumix DC-FZ80 y qué revisar antes del viaje: batería, tarjeta, polvo y condensación.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec01.m4a" length="7286469" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec01</guid>
+      <pubDate>Tue, 20 Oct 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:05:53</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · Lumix: del celular a la cámara</title>
+      <description>Qué cambia al pasar del celular a una cámara con zoom: cómo sostenerla, el obturador en dos pasos, el visor y la pantalla táctil.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec02.m4a" length="7298519" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec02</guid>
+      <pubDate>Tue, 20 Oct 2026 12:02:00 +0000</pubDate>
+      <itunes:duration>00:05:54</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · Lumix: los modos de disparo</title>
+      <description>Del automático inteligente a los modos P, A, S y M, el modo Scene Guide y los tres ajustes personalizados.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec03.m4a" length="7983279" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec03</guid>
+      <pubDate>Tue, 20 Oct 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · Lumix: el zoom de 60x sin temblar</title>
+      <description>Zoom óptico, digital y estabilizador: hasta dónde llega la cámara y cómo apoyarte para que las fotos salgan nítidas.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec04.m4a" length="8486734" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec04</guid>
+      <pubDate>Tue, 20 Oct 2026 12:04:00 +0000</pubDate>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · Lumix: luz y exposición en la Patagonia</title>
+      <description>Compensación de exposición, histograma, ISO y balance de blancos para luz cambiante, cielos brillantes y nieve.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec05.m4a" length="8249013" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec05</guid>
+      <pubDate>Tue, 20 Oct 2026 12:05:00 +0000</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06 · Lumix: enfoque, que no se escape el momento</title>
+      <description>Autoenfoque simple y continuo, seguimiento, área de enfoque, macro y enfoque manual, y cuándo falla el autoenfoque.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec06.m4a" length="8464362" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec06</guid>
+      <pubDate>Tue, 20 Oct 2026 12:06:00 +0000</pubDate>
+      <itunes:duration>00:06:52</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07 · Lumix: paisajes, las Torres, los lagos y el viento</title>
+      <description>Encuadre, horizonte, panorámicas, HDR y luz de amanecer y atardecer para fotografiar el parque.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec07.m4a" length="8395043" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec07</guid>
+      <pubDate>Tue, 20 Oct 2026 12:07:00 +0000</pubDate>
+      <itunes:duration>00:06:48</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08 · Lumix: fauna a distancia</title>
+      <description>Ráfagas, 4K Photo y seguimiento para guanacos, cóndores y zorros, respetando las normas del parque.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec08.m4a" length="9001807" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec08</guid>
+      <pubDate>Tue, 20 Oct 2026 12:08:00 +0000</pubDate>
+      <itunes:duration>00:07:18</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09 · Lumix: video y el instante exacto</title>
+      <description>Grabar video y 4K, sonido y viento, fotos durante el video y cómo rescatar un instante de una ráfaga 4K.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec09.m4a" length="8569434" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec09</guid>
+      <pubDate>Tue, 20 Oct 2026 12:09:00 +0000</pubDate>
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10 · Lumix: batería, tarjeta y respaldo en terreno</title>
+      <description>Frío, polvo y lluvia, cómo llevar las fotos al celular con la app, y la lista de chequeo final antes de salir.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/lumix/lec10.m4a" length="8579341" type="audio/x-m4a" />
+      <guid isPermaLink="false">lumix-torres-del-paine-lec10</guid>
+      <pubDate>Tue, 20 Oct 2026 12:10:00 +0000</pubDate>
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
