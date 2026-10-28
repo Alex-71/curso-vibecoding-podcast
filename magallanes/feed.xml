@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Fernando de Magallanes</title>
+    <link>https://alex-71.github.io/curso-vibecoding-podcast/magallanes/</link>
+    <description>Episodio en español, con dos voces, Marta y Tomás, sobre la vida de Fernando de Magallanes y la primera vuelta al mundo, contado a partir de un panel informativo.</description>
+    <language>es</language>
+    <itunes:author>Fernando de Magallanes</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/magallanes/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Wed, 28 Oct 2026 12:01:00 +0000</lastBuildDate>
+    <item>
+      <title>01 · Fernando de Magallanes: la primera vuelta al mundo</title>
+      <description>De paje en la corte portuguesa al estrecho que lleva su nombre: el motín de San Julián, el hambre en el Pacífico, Mactán y el regreso de Elcano con dieciocho hombres.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/magallanes/ep01.m4a" length="11426276" type="audio/x-m4a" />
+      <guid isPermaLink="false">fernando-de-magallanes-ep01</guid>
+      <pubDate>Wed, 28 Oct 2026 12:01:00 +0000</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
