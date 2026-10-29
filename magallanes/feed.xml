@@ -3,14 +3,14 @@
   <channel>
     <title>Fernando de Magallanes</title>
     <link>https://alex-71.github.io/curso-vibecoding-podcast/magallanes/</link>
-    <description>Episodios en español, con dos voces, Marta y Tomás, sobre Fernando de Magallanes, la nao Victoria y la primera vuelta al mundo, contados a partir de paneles informativos.</description>
+    <description>Episodios en español, con dos voces, Marta y Tomás, sobre la historia del estrecho de Magallanes: Magallanes, la nao Victoria, el Beagle, Darwin y Jemmy Button, contados a partir de paneles informativos.</description>
     <language>es</language>
     <itunes:author>Fernando de Magallanes</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/curso-vibecoding-podcast/magallanes/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Wed, 28 Oct 2026 12:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:03:00 +0000</lastBuildDate>
     <item>
       <title>01 · Fernando de Magallanes: la primera vuelta al mundo</title>
       <description>De paje en la corte portuguesa al estrecho que lleva su nombre: el motín de San Julián, el hambre en el Pacífico, Mactán y el regreso de Elcano con dieciocho hombres.</description>
@@ -30,6 +30,17 @@
       <pubDate>Wed, 28 Oct 2026 12:02:00 +0000</pubDate>
       <itunes:duration>00:09:11</itunes:duration>
       <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · El Beagle: Darwin y Jemmy Button</title>
+      <description>Darwin antes y después del Beagle, y Jemmy Button, el muchacho yagán llevado a Inglaterra a cambio de un botón y devuelto a Wulaia en el viaje en que iba Darwin.</description>
+      <enclosure url="https://alex-71.github.io/curso-vibecoding-podcast/magallanes/ep03.m4a" length="11124373" type="audio/x-m4a" />
+      <guid isPermaLink="false">fernando-de-magallanes-ep03</guid>
+      <pubDate>Wed, 28 Oct 2026 12:03:00 +0000</pubDate>
+      <itunes:duration>00:09:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
